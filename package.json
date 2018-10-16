@@ -1,7 +1,7 @@
 {
 	"name": "pact-server",
 	"config": {
-		"pact_binary_location": "<pact binary location>"
+		"pact_binary_location": "C:\\Users\\BERNC2A\\git\\stub-pact-server\\local_modules"
 	},
 	"dependencies": {
 		"@pact-foundation/pact-node": "^6.19.11",
